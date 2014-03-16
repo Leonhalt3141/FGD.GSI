@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<GI xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_DLD_Schema FGD_DLD_Schema3.0.xsd"
+	xmlns:jps="http://www.gsi.go.jp/GIS/jpgis/standardSchemas2.1_2009-05" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_DLD_Schema"
+	version="1.0"
+	timeStamp="2012-09-08T08:10:31">
+<exchangeMetadata>
+	<jps:datasetCitation>
+		<jps:title>基盤地図情報ダウンロードデータ (JPGIS版)</jps:title>
+		<jps:date>
+			<jps:date>2011-12-21</jps:date>
+			<jps:dateType>001</jps:dateType>
+		</jps:date>
+	</jps:datasetCitation>
+	<jps:metadataCitation>
+		<jps:title>基盤地図情報メタデータ ID=fmdid:11-5381</jps:title>
+		<jps:date>
+			<jps:date>2011-12-21</jps:date>
+			<jps:dateType>001</jps:dateType>
+		</jps:date>
+	</jps:metadataCitation>
+	<jps:encodingRule>
+		<jps:encodingRuleCitation>
+			<jps:title>JPGIS 附属書8 XMLに基づく符号化規則</jps:title>
+			<jps:date>
+				<jps:date>2008-03-31</jps:date>
+				<jps:dateType>001</jps:dateType>
+			</jps:date>
+		</jps:encodingRuleCitation>
+		<jps:toolName />
+		<jps:toolVersion />
+	</jps:encodingRule>
+</exchangeMetadata>
+<dataset>
+<AdmPt id="K6_1" uuid="fgoid:10-00200-11-65384-566957">
+<fid>fgoid:10-00200-11-65384-566957</fid>
+<lfSpanFr>
+<jps:position>
+<jps:date8601>2011-12-21</jps:date8601>
+</jps:position>
+</lfSpanFr>
+<lfSpanTo>
+<jps:position>
+<jps:date8601>2999-12-31</jps:date8601>
+</jps:position>
+</lfSpanTo>
+<devDate>
+<jps:position>
+<jps:date8601>2010-03-24</jps:date8601>
+</jps:position>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<orgMDId>9-1081</orgMDId>
+<vis>表示</vis>
+<pos id="K6_2" uuid="fgoid:10-00200-11-65384-566957-g">
+<jps:CRS uuidref="fguuid:jgd2011.bl"/>
+<jps:position>
+<jps:coordinate>35.646532679 139.653237891</jps:coordinate>
+</jps:position>
+</pos>
+<type>郡市・東京都の区</type>
+<name>世田谷区</name>
+<admCode>13112</admCode>
+</AdmPt>
+</dataset>
+</GI>
